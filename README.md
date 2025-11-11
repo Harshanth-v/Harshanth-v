@@ -61,19 +61,18 @@
 
 ---
 
-## ⚡ GitHub Stats
 
 ## ⚡ GitHub Stats
 
 <p align="center">
   <!-- Streak (optional) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshanth-v&theme=tokyonight" alt="GitHub Streak" /><br><br>
 
   <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshanth-v&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
 
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshanth-v&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
