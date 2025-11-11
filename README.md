@@ -64,9 +64,10 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshanthV&theme=tokyonight" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshanthV&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanthV&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshanthV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanthV&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshanthV&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshanthV&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
 </p>
 
 ---
