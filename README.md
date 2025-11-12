@@ -12,81 +12,92 @@
 
 ## 💼 About Me
 
-- 🎓 Aspiring **Data Analyst** with a passion for turning data into actionable insights  
-- 🌱 Currently diving deep into **Data Analytics & Visualization**  
-- 🧠 Skilled in **Python**, **SQL**, and **Analytical Problem Solving**  
-- 🚀 Open to **exciting opportunities** in data analytics & visualization  
+- 🎓 Aspiring **Data Analyst** passionate about transforming data into actionable insights  
+- 🌱 Currently exploring **Data Analytics & Visualization** using real-world datasets  
+- 🧠 Skilled in **Python**, **SQL**, **Pandas**, and **Matplotlib**  
+- 🚀 Eager to collaborate on **data-driven projects** and real-world analytics case studies  
 - 📫 Reach me at: [balajiharshanth1234@gmail.com](mailto:balajiharshanth1234@gmail.com)
 
+---
+
+<h4 align="center">⚡ "Data tells stories that numbers alone can't — you just need the right query to hear them." ⚡</h4>
 
 ---
 
 ## ⚙️ My Skills & Tools
 
-### 🧠 Programming & Libraries:
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+### 🐍 Programming & Data Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html" height="50"/>
+</p>
 
-### 🧩 Databases:
-[![MySQL](https://img.shields.io/badge/MySQL-%230075A8.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
+### 📚 Libraries & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-F37626.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/seaborn-76B900.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-### 📊 Data Visualization Tools:
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300C4CC.svg?logo=plotly&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com/)
+### 🗃️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 🧰 Tools & Platforms:
-[![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white)](https://jupyter.org/)
+### 📊 Visualization & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-💡 Exploring deeper into:  
-- Advanced **Data Analytics & Visualization**  
-- SQL optimization & performance tuning  
-- Data storytelling through Python dashboards (Plotly, Seaborn)
+💡 Expanding skills in:  
+- Advanced **SQL optimization & performance tuning**  
+- **Power BI & Tableau storytelling dashboards**  
+- **End-to-end data analytics pipelines**  
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshanth-v-1a2356281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/h_a_r_s_h_a_n_th?igsh=djJhNXRzZWRqYWhr&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/harshanth-v-1a2356281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/h_a_r_s_h_a_n_th?igsh=djJhNXRzZWRqYWhr&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:balajiharshanth1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
 
-
-## ⚡ GitHub Stats
+## ⚡ GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshanth-v&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshanth-v&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 <p align="center">
-  <!-- Streak (optional) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshanth-v&theme=tokyonight" alt="GitHub Streak" /><br><br>
-
-  <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshanth-v&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshanth-v&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshanth-v&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
 </p>
+
+---
+
+## 🏆 Achievements & Goals
+
+- 🎯 Building my **portfolio of real-world analytics projects**  
+- 🧠 Completing **advanced Python & SQL mastery path**  
+- 💡 Working on my **first Power BI project dashboard**
 
 ---
 
 ## 🧩 Fun Facts About Me
-- 💬 I love solving SQL puzzles and real-world analytics problems  
-- 🧠 I believe “Every dataset has a story — it just needs the right question.”  
-- 🎯 Goal for 2025: Master end-to-end data analytics projects  
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshanthV&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
-</p>
+- 💬 Love exploring real-world datasets & creating meaningful visuals  
+- 🧩 Enjoy solving analytical challenges and SQL queries  
+- 🎯 2025 Goal: **Publish 5+ impactful data projects on GitHub**  
+- ☕ Powered by caffeine and curiosity  
 
 ---
 
@@ -101,5 +112,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C3FF,100:FFFF1C&height=100&section=footer"/>
 </p>
-
-
